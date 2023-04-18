@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.paris.lutece.plugins</groupId>
-    <artifactId>lutece-tech-plugin-adminbscompat</artifactId>
+    <artifactId>plugin-adminbscompat</artifactId>
     <packaging>lutece-plugin</packaging>
     <version>1.0.0-SNAPSHOT</version>
     <name>Add BS3 to BS5 BO for Lutece CORE admin compatibility</name>
